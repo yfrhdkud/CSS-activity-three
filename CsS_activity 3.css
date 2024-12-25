@@ -1,0 +1,21 @@
+#Transformers{
+        transform: rotateX(180deg);
+        border: 5px dashed black;
+        box-shadow: 3px 2px 4px red;
+
+}
+#transformers_2{
+        transform: rotateY(45deg);
+}
+#Eraaj{
+        text-decoration: line-through;
+        text-transform: capitalize;
+        text-shadow: 3px 4px 5px blue; /* right offset left offset fade effect color*/
+        text-indent: 50%;
+}
+#h5{
+       transform:rotateZ(15deg);
+       font-family: Georgia, 'Times New Roman', Times, serif;
+       text-decoration: underline;
+       text-transform: uppercase;
+}
